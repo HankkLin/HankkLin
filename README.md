@@ -1,12 +1,71 @@
-<h1 align="center">Hi 👋, I'm Hank</h1>
-<h3 align="center">Seeking software development internships with experience in machine learning, Python, Java, C, git and more.</h3>
+<!--
+Taopunk README Theme
+- Palette idea: jade #00C896, vermilion #FF3B30, onyx #0B0F10
+- Put your header image at: assets/taopunk-banner.png
+-->
 
-- 📫 How to reach me **ezp9xp@virginia.edu**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/hanlin888" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="han lin" height="30" width="40" /></a>
+<p align="center">
+  <!-- Upload your generated banner to /assets and update the path if needed -->
+  <img src="assets/taopunk-banner.png" alt="Taopunk banner: jade and vermilion over a dark background" width="100%">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<h1 align="center">About me</h1>
+
+<p align="center">
+  Hi 👋, I'm <b>Hank</b> — an aspiring software engineer who enjoys building with Python, Java, and C.<br/>
+  Focus areas: machine learning, backend systems, and clean, testable code.
+</p>
+
+<p align="center">
+  <!-- Quick links (jade + vermilion) -->
+  <a href="https://www.linkedin.com/in/hanlin888">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-00C896?style=for-the-badge&logo=linkedin&labelColor=0B0F10" alt="LinkedIn">
+  </a>
+  <a href="mailto:ezp9xp@virginia.edu">
+    <img src="https://img.shields.io/badge/Email-ezp9xp%40virginia.edu-FF3B30?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B0F10" alt="Email">
+  </a>
+</p>
+
+<!-- Taopunk divider -->
+<p align="center">☯︎</p>
+
+## Pinned repositories
+
+<!-- Replace with your actual repos + 1-line context -->
+
+- 🔧 **[project-one](https://github.com/your-user/project-one)** — RESTful API with JWT, rate-limit, and CI tests.
+- 🧠 **[ml-playground](https://github.com/your-user/ml-playground)** — Experiments with CNNs and tabular ML; reproducible notebooks.
+- 🗂 **[tools-scripts](https://github.com/your-user/tools-scripts)** — Small utilities for data cleanup and release automation.
+
+> Tip: pin these on your GitHub profile so they appear on first visit.
+
+## Languages & tools
+
+<!-- Minimal, dark-mode friendly badges (jade accent). Add/remove as needed. -->
+<p>
+  <img src="https://img.shields.io/badge/Python-00C896?style=for-the-badge&logo=python&logoColor=white&labelColor=0B0F10" />
+  <img src="https://img.shields.io/badge/Java-00C896?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0B0F10" />
+  <img src="https://img.shields.io/badge/C-00C896?style=for-the-badge&logo=c&logoColor=white&labelColor=0B0F10" />
+  <img src="https://img.shields.io/badge/JavaScript-00C896?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0B0F10" />
+  <img src="https://img.shields.io/badge/Git-00C896?style=for-the-badge&logo=git&logoColor=white&labelColor=0B0F10" />
+  <img src="https://img.shields.io/badge/PyTorch-00C896?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=0B0F10" />
+  <img src="https://img.shields.io/badge/TensorFlow-00C896?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0B0F10" />
+  <img src="https://img.shields.io/badge/SQLite-00C896?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=0B0F10" />
+  <img src="https://img.shields.io/badge/MySQL-00C896?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0B0F10" />
+  <img src="https://img.shields.io/badge/Unity-00C896?style=for-the-badge&logo=unity&logoColor=white&labelColor=0B0F10" />
+</p>
+
+<!-- Optional: keep your original icon grid below if you prefer logos over badges -->
+
+## Code samples
+
+<details>
+<summary>Python</summary>
+
+```python
+def greet(name: str) -> str:
+    return f"Hello, {name}!"
+
+if __name__ == "__main__":
+    print(greet("GitHub"))
+```
