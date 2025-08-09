@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# But keep README.md
+!README.md
+
+# Keep this .gitignore file itself
+!.gitignore
