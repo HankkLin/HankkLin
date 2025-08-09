@@ -2,11 +2,12 @@
 Taopunk README Theme
 - Palette idea: jade #00C896, vermilion #FF3B30, onyx #0B0F10
 - Put your header image at: assets/taopunk-banner.png
+- Taopunk banner: jade and vermilion over a dark background
 -->
 
 <p align="center">
   <!-- Upload your generated banner to /assets and update the path if needed -->
-  <img src="assets/taopunk-banner.png" alt="Taopunk banner: jade and vermilion over a dark background" width="100%">
+  <img src="assets/taopunk-banner.png" alt="Banner" width="100%">
 </p>
 
 <h1 align="center">About me</h1>
