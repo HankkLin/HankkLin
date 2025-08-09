@@ -1,12 +1,198 @@
-<h1 align="center">Hi 👋, I'm Hank</h1>
-<h3 align="center">Seeking software development internships with experience in machine learning, Python, Java, C, git and more.</h3>
+<div align="center">
 
-- 📫 How to reach me **ezp9xp@virginia.edu**
+```
+╔═══════════════════════════════════════════════════════════════╗
+║  ████████╗ █████╗  ██████╗ ██████╗ ██╗   ██╗███╗   ██╗██╗  ██╗ ║
+║  ╚══██╔══╝██╔══██╗██╔═══██╗██╔══██╗██║   ██║████╗  ██║██║ ██╔╝ ║
+║     ██║   ███████║██║   ██║██████╔╝██║   ██║██╔██╗ ██║█████╔╝  ║
+║     ██║   ██╔══██║██║   ██║██╔═══╝ ██║   ██║██║╚██╗██║██╔═██╗  ║
+║     ██║   ██║  ██║╚██████╔╝██║     ╚██████╔╝██║ ╚████║██║  ██╗ ║
+║     ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═╝      ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═╝ ║
+╚═══════════════════════════════════════════════════════════════╝
+```
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/hanlin888" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="han lin" height="30" width="40" /></a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a9eff,100:38d9a9&height=120&section=header&text=HANK%20LIN&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Software%20Developer%20%7C%20ML%20Enthusiast&descAlignY=55&descAlign=50" />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+### 🔹 **About Me**
+```css
+.developer {
+    position: absolute;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 8px 32px rgba(31, 38, 135, 0.37);
+    backdrop-filter: blur(4px);
+}
+```
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38d9a9&center=true&vCenter=true&multiline=true&width=600&height=80&lines=⚡+Passionate+software+developer;🎯+Seeking+internship+opportunities;🤖+Machine+Learning+%26+AI+enthusiast" alt="Typing SVG" />
+
+</div>
+
+---
+
+<table align="center">
+<tr>
+<td width="50%">
+
+```javascript
+const hankLin = {
+    location: "Virginia, USA",
+    education: "Computer Science",
+    focus: ["Machine Learning", "AI"],
+    currently: "Building ML models",
+    learning: "Advanced AI techniques",
+    interests: [
+        "Artificial Intelligence",
+        "Data Science", 
+        "Game Development",
+        "Digital Art"
+    ],
+    funFact: "I create digital art & interactive experiences!"
+};
+
+console.log("Welcome to my digital realm! 🚀");
+```
+
+</td>
+<td width="50%">
+
+### 🔹 **Current Status**
+```yaml
+OS: Student
+Languages: [Python, Java, C, C#]
+Frameworks: [PyTorch, TensorFlow]
+Database: [MongoDB, MySQL, SQLite]
+Tools: [Git, Jest, Mocha, Unity]
+Creative: [Photoshop, Illustrator, Blender]
+```
+
+### 🔹 **Life Stats**
+```json
+{
+  "challenge": "Building the future with code",
+  "mission": "Creating impactful solutions",
+  "philosophy": "Balance ancient wisdom & future tech"
+}
+```
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+## 🔹 **Tech Stack & Tools**
+
+</div>
+
+<table align="center">
+<tr>
+<td width="33%">
+
+```python
+# Core Languages
+languages = {
+    'primary': ['Python', 'Java'],
+    'systems': ['C', 'C#'],
+    'web': ['JavaScript', 'CSS'],
+    'learning': ['Rust', 'Go']
+}
+
+for lang in languages['primary']:
+    print(f"Expert in {lang} ⚡")
+```
+
+</td>
+<td width="33%">
+
+```yaml
+# ML & AI Framework
+machine_learning:
+  - PyTorch: "Deep Learning"
+  - TensorFlow: "Neural Networks" 
+  - scikit-learn: "Classic ML"
+  - Pandas: "Data Analysis"
+  - NumPy: "Numerical Computing"
+```
+
+</td>
+<td width="33%">
+
+```json
+{
+  "databases": [
+    "MongoDB",
+    "MySQL", 
+    "SQLite"
+  ],
+  "tools": [
+    "Git",
+    "Docker",
+    "VS Code"
+  ],
+  "creative": [
+    "Photoshop",
+    "Illustrator", 
+    "Blender"
+  ]
+}
+```
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 🔹 **Pinned Repositories**
+*Building something awesome? Check out my work!*
+
+</div>
+
+<div align="center">
+
+## 🔹 **Connect With Me**
+
+```bash
+$ whoami
+hank.lin@developer:~$ Passionate CS student seeking opportunities
+$ cat contact.txt
+📧 Email: ezp9xp@virginia.edu
+💼 LinkedIn: /in/hanlin888
+🌐 Location: Virginia, USA
+$ echo "Let's build something amazing together!"
+```
+
+</div>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/hanlin888">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=38d9a9" alt="LinkedIn"/>
+</a>
+<a href="mailto:ezp9xp@virginia.edu">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&color=38d9a9" alt="Email"/>
+</a>
+
+</div>
+
+<!-- GitHub stats commented out as requested -->
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38d9a9,100:4a9eff&height=100&section=footer" />
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│  ⚡ "The best code is not written, but cultivated"          │
+│  🌸 Ancient wisdom meets modern technology                  │  
+│  ☯️  Thanks for visiting my digital realm!                  │
+└─────────────────────────────────────────────────────────────┘
+```
+
+<img src="https://komarev.com/ghpvc/?username=HankkLin&color=38d9a9&style=for-the-badge&label=VISITORS" />
+
+</div>
