@@ -13,7 +13,7 @@ Taopunk README Theme
 <h1 align="center">About me</h1>
 
 <p align="center">
-  Hi 👋, I'm <b>Hank</b> — an aspiring software engineer who enjoys building with Python, Java, and C.<br/>
+  Hello, I'm <b>Hank</b> — an aspiring software engineer who enjoys building with Python, Java, and C.<br/>
   Focus areas: machine learning, backend systems, and clean, testable code.
 </p>
 
