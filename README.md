@@ -24,7 +24,7 @@ ACCESS: PUBLIC
 </p>
 
 <!-- AGENT_VISUALS: Insert assets/neon-divider.png here -->
-<img src="assets/neon-divider.png" alt="----------------------------------------" width="100%">
+<img src="assets/divider.png" alt="----------------------------------------" width="100%">
 ## ⚡ NEURAL MODULES [TECH_STACK]
 
 <p align="center">
@@ -47,14 +47,16 @@ ACCESS: PUBLIC
 
 ## 📂 MISSION LOGS [DEPLOYED_SYSTEMS]
 
+<!--
 | PROJECT_ID | STATUS | DATA_PACK |
 | :--- | :--- | :--- |
 | **🔧 [project-one](https://github.com/your-user/project-one)** | `stable` | RESTful API, JWT Auth, CI/CD Pipeline. |
 | **🧠 [ml-playground](https://github.com/your-user/ml-playground)** | `experimental` | CNNs, Tabular ML, Jupyter Notebooks. |
 | **🗂 [tools-scripts](https://github.com/your-user/tools-scripts)** | `utility` | Automation scripts, Data cleanup tools. |
+-->
 
-<!-- AGENT_VISUALS: Insert assets/neon-divider.png here -->
-<img src="assets/neon-divider.png" alt="----------------------------------------" width="100%">
+<!-- AGENT_VISUALS: Insert assets/ divider.png here -->
+<img src="assets/divider.png" alt="----------------------------------------" width="100%">
 ## 📡 ENCRYPTED CHANNELS [CONTACT]
 
 <p align="center">
