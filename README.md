@@ -1,74 +1,84 @@
 <!-- 
-SYSTEM: TAOPUNK_V2.0
-STATUS: ONLINE
-ACCESS: PUBLIC
+SYSTEM: GROUNDHOG_OS_V1.0
+STATUS: CAFFEINATED
+ACCESS: OPEN
 -->
 
 <p align="center">
-  <!-- AGENT_VISUALS: Insert assets/cyberpunk-banner.png here -->
-  <img src="assets/cyberpunk-banner.png" alt="System Initialization" width="100%">
+  <img src="assets/groundhog_coding.png" alt="Coding Groundhog" width="100%">
 </p>
 
-<h1 align="center">HANK // NETRUNNER</h1>
+<h1 align="center">HANK // THE CODING GROUNDHOG</h1>
 
 <p align="center">
-  <code>> INITIALIZING CONNECTION...</code><br/>
-  <code>> USER AUTHENTICATED: GUEST</code><br/>
-  <code>> LOADING BIO...</code>
+  <code>> WAKING UP FROM HIBERNATION...</code><br/>
+  <code>> VISITOR DETECTED: FRIEND</code><br/>
+  <code>> GRABBING COFFEE...</code>
 </p>
 
 <p align="center">
-  <b>[ TARGET_ID: HANK ]</b><br/>
-  Software Engineer specializing in Backend Systems, Machine Learning, and Clean Architecture.<br/>
-  <i>"Building the digital infrastructure of tomorrow, one line of code at a time."</i>
+  <b>[ SPECIES: MARMOTA MONAX (CODER) ]</b><br/>
+  Software Engineer (and professional burrower) specializing in Backend Systems, Machine Learning, and Clean Architecture.<br/>
+  <i>"Digging deep into code, one bug at a time."</i>
 </p>
 
-<!-- AGENT_VISUALS: Insert assets/neon-divider.png here -->
+<!-- AGENT_VISUALS: Insert assets/divider.png here -->
 <img src="assets/divider.png" alt="----------------------------------------" width="100%">
-## ⚡ NEURAL MODULES [TECH_STACK]
+
+## 🛠 TOOLBOX (NOT JUST FOR DIGGING)
 
 <p align="center">
   <!-- Langs -->
-  <img src="https://img.shields.io/badge/PYTHON-00C896?style=for-the-badge&logo=python&logoColor=black&labelColor=0B0F10" />
-  <img src="https://img.shields.io/badge/JAVA-00C896?style=for-the-badge&logo=openjdk&logoColor=black&labelColor=0B0F10" />
-  <img src="https://img.shields.io/badge/C-00C896?style=for-the-badge&logo=c&logoColor=black&labelColor=0B0F10" />
-  <img src="https://img.shields.io/badge/JAVASCRIPT-00C896?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0B0F10" />
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <br/>
   <!-- Frameworks/Tools -->
-  <img src="https://img.shields.io/badge/PYTORCH-FF3B30?style=for-the-badge&logo=pytorch&logoColor=black&labelColor=0B0F10" />
-  <img src="https://img.shields.io/badge/TENSORFLOW-FF3B30?style=for-the-badge&logo=tensorflow&logoColor=black&labelColor=0B0F10" />
-  <img src="https://img.shields.io/badge/UNITY-FF3B30?style=for-the-badge&logo=unity&logoColor=black&labelColor=0B0F10" />
+  <img src="https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/UNITY-000000?style=for-the-badge&logo=unity&logoColor=white" />
   <br/>
   <!-- DB/Infra -->
-  <img src="https://img.shields.io/badge/SQLITE-00f3ff?style=for-the-badge&logo=sqlite&logoColor=black&labelColor=0B0F10" />
-  <img src="https://img.shields.io/badge/MYSQL-00f3ff?style=for-the-badge&logo=mysql&logoColor=black&labelColor=0B0F10" />
-  <img src="https://img.shields.io/badge/GIT-00f3ff?style=for-the-badge&logo=git&logoColor=black&labelColor=0B0F10" />
+  <img src="https://img.shields.io/badge/SQLITE-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-## 📂 MISSION LOGS [DEPLOYED_SYSTEMS]
+## 📊 ACTIVATION LEVELS
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hanlin888&theme=react-dark&hide_border=true&area=true" alt="Hank's Activity Graph" width="100%">
+</p>
+
+## 🥕 PAST EXCAVATIONS
 
 <!--
-| PROJECT_ID | STATUS | DATA_PACK |
+| PROJECT | STATUS | DESC |
 | :--- | :--- | :--- |
-| **🔧 [project-one](https://github.com/your-user/project-one)** | `stable` | RESTful API, JWT Auth, CI/CD Pipeline. |
-| **🧠 [ml-playground](https://github.com/your-user/ml-playground)** | `experimental` | CNNs, Tabular ML, Jupyter Notebooks. |
-| **🗂 [tools-scripts](https://github.com/your-user/tools-scripts)** | `utility` | Automation scripts, Data cleanup tools. |
+| **🔧 [project-one](https://github.com/hanlin888/project-one)** | `stable` | RESTful API, JWT Auth, CI/CD Pipeline. |
+| **🧠 [ml-playground](https://github.com/hanlin888/ml-playground)** | `experimental` | CNNs, Tabular ML, Jupyter Notebooks. |
+| **🗂 [tools-scripts](https://github.com/hanlin888/tools-scripts)** | `utility` | Automation scripts, Data cleanup tools. |
 -->
 
-<!-- AGENT_VISUALS: Insert assets/ divider.png here -->
 <img src="assets/divider.png" alt="----------------------------------------" width="100%">
-## 📡 ENCRYPTED CHANNELS [CONTACT]
+
+## 📡 SIGNAL THE BURROW
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hanlin888">
-    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-00f3ff?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=0B0F10" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:ezp9xp@virginia.edu">
-    <img src="https://img.shields.io/badge/EMAIL-TRANSMIT-FF3B30?style=for-the-badge&logo=gmail&logoColor=black&labelColor=0B0F10" alt="Email">
+    <img src="https://img.shields.io/badge/EMAIL-Send_Nuts-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
 <p align="center">
-  <code>> END_OF_LINE</code>
+  <code>> HIBERNATION_MODE_INITIATED</code>
+</p>
+
+<p align="center">
+  <sub>*Note: Top image is generated with AI.*</sub>
 </p>
