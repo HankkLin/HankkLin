@@ -7,7 +7,6 @@
 # Keep this .gitignore file itself
 !.gitignore
 
-# Allow assets
+# Allow assets directory and its contents
 !assets/
-
-!assets/
+!assets/**
