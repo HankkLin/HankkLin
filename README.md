@@ -23,11 +23,8 @@ ACCESS: PUBLIC
   <i>"Building the digital infrastructure of tomorrow, one line of code at a time."</i>
 </p>
 
-<p align="center">
-  <!-- AGENT_VISUALS: Insert assets/neon-divider.png here -->
-  <img src="assets/neon-divider.png" alt="----------------------------------------" width="100%">
-</p>
-
+<!-- AGENT_VISUALS: Insert assets/neon-divider.png here -->
+<img src="assets/neon-divider.png" alt="----------------------------------------" width="100%">
 ## ⚡ NEURAL MODULES [TECH_STACK]
 
 <p align="center">
@@ -58,7 +55,6 @@ ACCESS: PUBLIC
 
 <!-- AGENT_VISUALS: Insert assets/neon-divider.png here -->
 <img src="assets/neon-divider.png" alt="----------------------------------------" width="100%">
-
 ## 📡 ENCRYPTED CHANNELS [CONTACT]
 
 <p align="center">
