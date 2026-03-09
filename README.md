@@ -22,9 +22,6 @@ ACCESS: OPEN
   <i>"Digging deep into code, one bug at a time."</i>
 </p>
 
-<!-- AGENT_VISUALS: Insert assets/divider.png here -->
-<img src="assets/divider.png" alt="----------------------------------------" width="100%">
-
 ## 🛠 TOOLBOX (NOT JUST FOR DIGGING)
 
 <p align="center">
@@ -45,12 +42,6 @@ ACCESS: OPEN
   <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-## 📊 ACTIVATION LEVELS
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hanlin888&theme=react-dark&hide_border=true&area=true" alt="Hank's Activity Graph" width="100%">
-</p>
-
 ## 🥕 PAST EXCAVATIONS
 
 <!--
@@ -61,8 +52,6 @@ ACCESS: OPEN
 | **🗂 [tools-scripts](https://github.com/hanlin888/tools-scripts)** | `utility` | Automation scripts, Data cleanup tools. |
 -->
 
-<img src="assets/divider.png" alt="----------------------------------------" width="100%">
-
 ## 📡 SIGNAL THE BURROW
 
 <p align="center">
@@ -70,7 +59,7 @@ ACCESS: OPEN
     <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:ezp9xp@virginia.edu">
+  <a href="mailto:linhan317@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-Send_Nuts-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
