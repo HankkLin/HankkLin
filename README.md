@@ -43,7 +43,9 @@ ACCESS: OPEN
 </p>
 
 ## 🥕 PAST EXCAVATIONS
-
+<p align="center">
+  <sub>*Still under construction*</sub>
+</p>
 <!--
 | PROJECT | STATUS | DESC |
 | :--- | :--- | :--- |
