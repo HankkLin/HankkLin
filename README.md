@@ -1,75 +1,20 @@
-<!-- 
-SYSTEM: GROUNDHOG_OS_V1.0
-STATUS: CAFFEINATED
-ACCESS: OPEN
--->
+# Han (Hank) Lin
 
-<p align="center">
-  <img src="assets/groundhog_coding.png" alt="Coding Groundhog" width="100%">
-</p>
+Software engineer · Cornell Tech M.S. student · New York, NY
 
-<h1 align="center">HANK // THE CODING GROUNDHOG</h1>
+I build software across backend systems, full-stack applications, and applied AI. I’m interested in the path from data structures and algorithms to reliable systems that solve real problems.
 
-<p align="center">
-  <code>> WAKING UP FROM HIBERNATION...</code><br/>
-  <code>> VISITOR DETECTED: FRIEND</code><br/>
-  <code>> GRABBING COFFEE...</code>
-</p>
+### Skills I use
 
-<p align="center">
-  <b>[ SPECIES: MARMOTA MONAX (CODER) ]</b><br/>
-  Software Engineer (and professional burrower) specializing in Backend Systems, Machine Learning, and Clean Architecture.<br/>
-  <i>"Digging deep into code, one bug at a time."</i>
-</p>
+- **Languages:** Python, C++, C, C#, Java, JavaScript, TypeScript, Go, SQL
+- **Systems and backend:** C++20, REST APIs, .NET / ASP.NET, SQLite, MSSQL, Docker, caching, data partitioning, event streaming
+- **AI and machine learning:** PyTorch, Hugging Face, scikit-learn, retrieval-augmented generation, embeddings, AI agents, tool calling, structured outputs, model evaluation
+- **Web and engineering:** React, Node.js, Flask, FastAPI, Git, CMake, automated testing, system design, data structures and algorithms, LeetCode practice
 
-## 🛠 TOOLBOX (NOT JUST FOR DIGGING)
+### Selected work
 
-<p align="center">
-  <!-- Langs -->
-  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <br/>
-  <!-- Frameworks/Tools -->
-  <img src="https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/UNITY-000000?style=for-the-badge&logo=unity&logoColor=white" />
-  <br/>
-  <!-- DB/Infra -->
-  <img src="https://img.shields.io/badge/SQLITE-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+- [ClimbStream](https://github.com/HankkLin/ClimbStream) — C++20 event streaming with partitioned logs, durable consumer offsets, recovery, and replay.
+- [TC Token Optimizer](https://github.com/HankkLin/Chinese_simplifier) — JavaScript plugin and CLI with reproducible tokenization experiments.
+- [Go Desktop](https://github.com/HankkLin/GoPractice) — C# Go rules engine and desktop app with optional KataGo integration.
 
-## 🥕 PAST EXCAVATIONS
-<p align="center">
-  <sub>*Still under construction*</sub>
-</p>
-<!--
-| PROJECT | STATUS | DESC |
-| :--- | :--- | :--- |
-| **🔧 [project-one](https://github.com/hanlin888/project-one)** | `stable` | RESTful API, JWT Auth, CI/CD Pipeline. |
-| **🧠 [ml-playground](https://github.com/hanlin888/ml-playground)** | `experimental` | CNNs, Tabular ML, Jupyter Notebooks. |
-| **🗂 [tools-scripts](https://github.com/hanlin888/tools-scripts)** | `utility` | Automation scripts, Data cleanup tools. |
--->
-
-## 📡 SIGNAL THE BURROW
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/hanlin888">
-    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:linhan317@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-Send_Nuts-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
-
-<p align="center">
-  <code>> HIBERNATION_MODE_INITIATED</code>
-</p>
-
-<p align="center">
-  <sub>*Note: Top image is generated with AI.*</sub>
-</p>
+[Portfolio](https://hankklin.github.io/) · [LinkedIn](https://www.linkedin.com/in/hanlin888) · [Email](mailto:hl2658@cornell.edu)
